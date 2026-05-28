@@ -1,0 +1,75 @@
+id_booking,rombel,hari,jam_mulai,jam_selesai,ruang,mata_kuliah,status,waktu_booking,durasi_penggunaan,jam_penggunaan,kelas_selesai,waktu_selesai,tipe
+592D19A6,2025 C,Senin,07:00,09:30,E2.01.09,Kalkulus Lanjut,batal,2026-01-01 00:00:00,0,,Belum,,booking
+0DB4B86F,2025 D,Senin,07:00,09:30,E2.01.02,Teori Probabilitas,batal,2026-01-01 00:00:00,0,,Selesai,2026-05-25 09:15:18,booking
+2262EFA5,2025 G,Senin,07:00,09:30,E2.01.08,Interaksi Manusia Dan Komputer,batal,2026-01-01 00:00:00,0,,Belum,,booking
+A1B2C3D4,2025 A,Senin,07:00,09:30,E2.02.02/LAB,Struktur Data Dan Algoritma,batal,2026-01-01 00:00:00,0,,Selesai,2026-05-25 09:16:41,booking
+59D47EE3,2025 D,Senin,09:30,12:00,E2.01.04,Kalkulus Lanjut,batal,2026-01-01 00:00:00,0,,Selesai,2026-05-25 09:16:53,booking
+55B121B2,2025 F,Senin,09:30,12:00,E2.01.08,Teori Probabilitas,aktif,2026-01-01 00:00:00,0,,Selesai,2026-05-25 09:17:09,booking
+1D78AC78,2025 G,Senin,09:30,12:00,E2.01.02,Teori Probabilitas,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+BB7206C1,INT 25,Senin,09:30,12:00,E2.01.10,Teori Probabilitas,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+A2B3C4D5,2025 A,Senin,09:30,12:00,E2.02.02/LAB,Interaksi Manusia Dan Komputer,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+44A90D1E,2024 A,Senin,13:00,15:30,E2.01.02,Penambangan Data,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+71930D0C,2024 B,Senin,13:00,15:30,E2.01.04,Penambangan Data,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+0E8F8BCF,2024 D,Senin,13:00,15:30,E2.01.08,Analisis Data Eksploratif,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+A3A648EA,2024 E,Senin,13:00,15:30,E2.01.07,Pembelajaran Mesin,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+99E09671,2025 A,Senin,13:00,15:30,E2.01.06,Teori Probabilitas,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+BE854F7B,2025 F,Senin,13:00,15:30,E2.01.09,Interaksi Manusia Dan Komputer,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+90EF5BE1,INT 25,Senin,13:00,15:30,E2.01.10,Kalkulus Lanjut,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+A3B4C5D6,2025 B,Senin,13:00,15:30,E2.02.02/LAB,Struktur Data Dan Algoritma,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+543004B1,2024 B,Selasa,07:00,09:30,E2.01.02,Analisis Data Eksploratif,aktif,2026-01-01 00:00:00,0,,Selesai,2026-05-25 09:17:15,booking
+65EC648C,2024 E,Selasa,07:00,09:30,E2.01.04,Penambangan Data,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+BD0CBC97,2025 B,Selasa,07:00,09:30,E2.01.08,Interaksi Manusia Dan Komputer,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+D2CBA3DE,2025 C,Selasa,07:00,09:30,E2.02.02/LAB,Struktur Data Dan Algoritma,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+89F1952E,2025 E,Selasa,07:00,09:30,E2.01.09,Interaksi Manusia Dan Komputer,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+43C95198,INT 24,Selasa,07:00,09:30,E2.01.10,Pengolahan Citra Digital,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+2841BDF5,2024 A,Selasa,09:30,12:00,E2.01.02,Analisis Multivariat,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+5A72B292,2024 C,Selasa,09:30,12:00,E2.01.08,Analisis Multivariat,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+30E3447E,2024 D,Selasa,09:30,12:00,C01.04.03,Pembelajaran Mesin,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+1BE8D25E,2024 E,Selasa,09:30,12:00,E2.01.09,Analisis Data Eksploratif,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+15E04309,2025 E,Selasa,09:30,12:00,E2.01.04,Etika Kecerdasan Artifisial,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+B4C5D6E7,2025 D,Selasa,09:30,12:00,E2.02.02/LAB,Struktur Data Dan Algoritma,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+B5C6D7E8,INT 25,Selasa,09:30,12:00,E2.01.06,Interaksi Manusia Dan Komputer,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+D7F317C1,2024 A,Selasa,13:00,15:30,E2.01.02,Pengolahan Citra Digital,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+A3D761E2,2024 C,Selasa,13:00,15:30,C01.04.03,Data Warehouse,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+34092318,2024 D,Selasa,13:00,15:30,E2.01.08,Penambangan Data,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+C0E8BEB1,2025 B,Selasa,13:00,15:30,E2.01.04,Teori Probabilitas,batal,2026-01-01 00:00:00,0,,Belum,,booking
+81D1A0E2,2025 F,Selasa,13:00,15:30,E2.01.09,Kalkulus Lanjut,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+97D784B2,INT 24,Selasa,13:00,15:30,E2.01.10,Pembelajaran Mesin,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+B6C7D8E9,2025 D,Selasa,13:00,15:30,E2.02.02/LAB,Interaksi Manusia Dan Komputer,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+D4744B6B,2024 B,Rabu,07:00,09:30,E2.01.02,Pembelajaran Mesin,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+88ADF5FE,2024 C,Rabu,07:00,09:30,E2.01.08,Pengolahan Citra Digital,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+CEFF490B,2024 D,Rabu,07:00,09:30,E2.01.09,Data Warehouse,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+71254610,2024 E,Rabu,07:00,09:30,E2.02.02/LAB,Data Warehouse,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+20B114A3,2025 C,Rabu,07:00,09:30,E2.01.04,Etika Kecerdasan Artifisial,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+B7C8D9E0,INT 24,Rabu,07:00,09:30,E2.01.10,Analisis Data Eksploratif,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+5FD5519C,2024 B,Rabu,09:30,12:00,E2.01.04,Analisis Multivariat,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+B42D604A,2024 D,Rabu,09:30,12:00,E2.01.09,Pengolahan Citra Digital,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+776A8213,2024 E,Rabu,09:30,12:00,E2.01.02,Pengolahan Citra Digital,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+B8C9D0E1,INT 24,Rabu,09:30,12:00,E2.02.02/LAB,Penambangan Data,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+EDC3DA2F,2024 A,Rabu,13:00,15:30,E2.02.02/LAB,Data Warehouse,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+F29EFC6E,2024 D,Rabu,13:00,15:30,E2.01.04,Analisis Multivariat,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+C31E1FBB,2025 B,Rabu,13:00,15:30,E2.01.09,Kalkulus Lanjut,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+377B5238,2025 C,Rabu,13:00,15:30,E2.01.08,Teori Probabilitas,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+83A1DCAB,2025 F,Rabu,13:00,15:30,E2.01.02,Struktur Data Dan Algoritma,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+B9C0D1E2,INT 24,Rabu,13:00,15:30,E2.01.10,Data Warehouse,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+E90CF1CE,2024 B,Kamis,07:00,09:30,E2.01.02,Pengolahan Citra Digital,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+466E6446,2024 C,Kamis,07:00,09:30,E2.02.02/LAB,Pembelajaran Mesin,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+D9A18CDC,2024 E,Kamis,07:00,09:30,E2.01.04,Analisis Multivariat,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+9BA51099,2025 E,Kamis,07:00,09:30,E2.01.09,Teori Probabilitas,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+6978D3A7,INT 24,Kamis,07:00,09:30,E2.01.08,Analisis Multivariat,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+C0D1E2F3,INT 25,Kamis,07:00,09:30,E2.01.10,Struktur Data Dan Algoritma,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+B3999250,2024 A,Kamis,09:30,12:00,E2.01.02,Analisis Data Eksploratif,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+8D4E2F71,2025 E,Kamis,09:30,12:00,E2.01.08,Kalkulus Lanjut,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+AE2DDC00,2025 C,Kamis,09:30,12:00,E2.01.09,Interaksi Manusia Dan Komputer,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+018EC1FF,2025 F,Kamis,09:30,12:00,E2.01.04,Etika Kecerdasan Artifisial,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+C1D2E3F4,2025 G,Kamis,09:30,12:00,E2.02.02/LAB,Struktur Data Dan Algoritma,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+FDBE74D6,2024 A,Kamis,13:00,15:30,E2.01.02,Pembelajaran Mesin,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+7B3582AD,2024 B,Kamis,13:00,15:30,E2.01.09,Data Warehouse,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+04C8ECDD,2024 C,Kamis,13:00,15:30,E2.01.08,Penambangan Data,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+B59440C7,2025 D,Kamis,13:00,15:30,E2.01.04,Etika Kecerdasan Artifisial,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+77BE4AFF,2025 G,Kamis,13:00,15:30,E2.01.06,Kalkulus Lanjut,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+C2D3E4F5,2025 A,Kamis,13:00,15:30,E2.01.07,Kalkulus Lanjut,aktif,2026-01-01 00:00:00,0,,Belum,,booking
+219E8F24,INT 24,Senin,07:00,08:40,E2.01.04,Etika Kecerdasan Artifisial,batal,2026-05-24 14:37:35,0,,Belum,,booking
+D6C4A834,INT 24,Senin,11:00,12:40,E2.01.09,Etika Kecerdasan Artifisial,batal,2026-05-24 14:41:10,0,,Selesai,2026-05-25 06:13:09,booking
+FF09CA28,2024 B,Senin,07:00,09:30,E2.01.02,Kalkulus Lanjut,aktif,2026-05-25 09:18:29,150,07:00,Belum,,booking
+A5EEA1A5,INT 24,Senin,07:00,08:00,E2.01.09,Struktur Data dan Algoritma,aktif,2026-05-27 07:00:24,60,,Belum,,booking
